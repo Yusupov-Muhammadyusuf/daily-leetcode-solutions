@@ -22,10 +22,6 @@ This section automatically updates to show the overall progress and the programm
   <img src="https://leetcard.jacoblin.cool/Muhammadyusuf-Yusupov?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusupov-Muhammadyusuf&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" />
-</p>
-
 ## Tech Stack
 
 The solutions are primarily implemented using the following programming languages:
