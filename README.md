@@ -19,7 +19,7 @@ The problems are categorized by their difficulty levels:
 This section automatically updates to show the overall progress and the programming languages used in this repository.
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Muhammadyusuf-Yusupov&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Muhammadyusuf-Yusupov?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
