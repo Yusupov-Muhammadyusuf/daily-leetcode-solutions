@@ -23,7 +23,7 @@ This section automatically updates to show the overall progress and the programm
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusupov-Muhammadyusuf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusupov-Muhammadyusuf&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
 
 ## Tech Stack
