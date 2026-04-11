@@ -6,8 +6,6 @@
 
 This repository contains daily solutions to problems from the **LeetCode** platform. All solutions are focused on optimal algorithms and clean, readable code structure.
 
----
-
 ## Repository Structure
 
 The problems are categorized by their difficulty levels:
@@ -15,8 +13,6 @@ The problems are categorized by their difficulty levels:
 * **Easy/** — Simple problems designed for beginners.
 * **Medium/** — Intermediate logic and algorithmic challenges.
 * **Hard/** — Complex data structures and advanced algorithms.
-
----
 
 ## Solutions Table
 
@@ -26,8 +22,6 @@ The problems are categorized by their difficulty levels:
 | 2 | Add Two Numbers | Medium | C++ | [Solution](./Medium/add-two-numbers.cpp) |
 | 3 | Longest Substring | Medium | Go | [Solution](./Medium/longest-substring.go) |
 
----
-
 ## Tech Stack
 
 The solutions are primarily implemented using the following programming languages:
@@ -35,22 +29,14 @@ The solutions are primarily implemented using the following programming language
 * **C++** (For high performance and memory control)
 * **Go** (For modern backend-oriented approaches)
 
----
-
 ## Roadmap
 
-- [ ] Add at least one new solution daily.
-- [ ] Include Time and Space complexity analysis for each solution.
-- [ ] Complete the "Top Interview Questions" curated list.
-
----
+- [x] Add at least one new solution daily.
+- [x] Include Time and Space complexity analysis for each solution.
+- [x] Focus on high-frequency interview questions.
 
 ## Contributions
 
 If these solutions are helpful or if you'd like to suggest a better approach, feel free to submit a **Pull Request** or support the project by giving it a **Star** (⭐).
 
-- **LeetCode Profile:** [Your Profile](https://leetcode.com/your_username)
-- **Connect:** [LinkedIn](https://linkedin.com/in/your_username)
-
----
-*This project serves as an open-source resource for learning algorithms and improving problem-solving skills.*
+> **This project serves as an open-source resource for learning algorithms and improving problem-solving skills.**
