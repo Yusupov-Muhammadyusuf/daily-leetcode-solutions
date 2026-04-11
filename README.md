@@ -14,21 +14,13 @@ The problems are categorized by their difficulty levels:
 * **Medium/** — Intermediate logic and algorithmic challenges.
 * **Hard/** — Complex data structures and advanced algorithms.
 
-## Statistics & Language Distribution
-
-This section automatically updates to show the overall progress and the programming languages used in this repository.
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Muhammadyusuf-Yusupov?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
-</p>
-
 ## Tech Stack
 
 The solutions are primarily implemented using the following programming languages:
 * **Python** (For concise and efficient implementation)
-* **C++** (For high performance and memory control)
-* **Go** (For modern backend-oriented approaches)
-
+* **JavaScript** (For flexible and dynamic scripting)
+* **TypeScript** (For type-safe and scalable solutions)
+* 
 ## Roadmap
 
 - [x] Add at least one new solution daily.
