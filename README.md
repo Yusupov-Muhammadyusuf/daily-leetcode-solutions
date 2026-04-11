@@ -14,13 +14,17 @@ The problems are categorized by their difficulty levels:
 * **Medium/** — Intermediate logic and algorithmic challenges.
 * **Hard/** — Complex data structures and advanced algorithms.
 
-## Solutions Table
+## Statistics & Language Distribution
 
-| # | Problem Name | Difficulty | Language | Link |
-|:---:|:---|:---:|:---:|:---:|
-| 1 | Two Sum | Easy | Python | [Solution](./Easy/two-sum.py) |
-| 2 | Add Two Numbers | Medium | C++ | [Solution](./Medium/add-two-numbers.cpp) |
-| 3 | Longest Substring | Medium | Go | [Solution](./Medium/longest-substring.go) |
+This section automatically updates to show the overall progress and the programming languages used in this repository.
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Muhammadyusuf-Yusupov&theme=dark" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusupov-Muhammadyusuf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ## Tech Stack
 
