@@ -2,7 +2,6 @@
 
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solutions-orange?logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-Python%20%2F%20JS%20%2F%20TS-blue)
-![Last Commit](https://img.shields.io/github/last-commit/Muhammadyusuf-Yusupov/daily-leetcode-solutions)
 
 This repository contains daily solutions to problems from the **LeetCode** platform. All solutions are focused on optimal algorithms and clean, readable code structure.
 
