@@ -1,15 +1,20 @@
+"""
+LeetCode: Two Sum
+Level: Easy 🟢
+
+Description:
+Given an array of integers 'nums' and an integer 'target', return indices 
+of the two numbers such that they add up to 'target'.
+You may assume that each input would have exactly one solution, 
+and you may not use the same element twice.
+
+Approach: Brute Force
+- Time Complexity: O(n^2) - We use nested loops to check every pair.
+- Space Complexity: O(1) - No extra space used except for variables.
+"""
+
 class Solution:
-    """
-    Problem: Two Sum
-    Description:
-    Given an array of integers 'nums' and an integer 'target', return indices of the 
-    two numbers such that they add up to 'target'.
-    
-    Approach: Brute Force
-    - Time Complexity: O(n^2) - because of the nested loops.
-    - Space Complexity: O(1) - no extra data structures used.
-    """
-    def twoSum(self, nums: list[int], target: int) -> list[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         n = len(nums)
         
         # Outer loop to iterate through each element as the first number
@@ -20,7 +25,3 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     # Return the indices of the two numbers
                     return [i, j]
-
-# Example usage:
-# nums = [2, 7, 11, 15], target = 9
-# Output: [0, 1]
