@@ -1,5 +1,5 @@
 /**
- * LeetCode: 206. Reverse Linked List
+ * LeetCode: Reverse Linked List
  * Level: Easy 🟢
  * * Description:
  * Given the head of a singly linked list, reverse the list, and return the reversed list.
