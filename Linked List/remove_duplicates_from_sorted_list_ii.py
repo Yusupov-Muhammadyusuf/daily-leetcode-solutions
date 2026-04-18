@@ -1,5 +1,5 @@
 """
-LeetCode: 82. Remove Duplicates from Sorted List II
+LeetCode: Remove Duplicates from Sorted List II
 Level: Medium 🟡
 
 Description:
