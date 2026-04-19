@@ -1,0 +1,40 @@
+"""
+LeetCode: Remove Duplicates from Sorted List
+Level: Easy 🟢
+
+Description:
+Given the head of a sorted linked list, delete all duplicates such that 
+each element appears only once. Return the linked list sorted as well.
+
+Approach: Iterative (One Pass)
+Time Complexity: O(n) - We visit each node exactly once.
+Space Complexity: O(1) - No extra space used, we only change pointers.
+"""
+
+# Zanjirli ro'yxat tuguni uchun klas (Singly-linked list node)
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+
+class Solution:
+    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        # 1. Agar ro'yxat bo'sh bo'lsa, uni o'zini qaytaramiz
+        if not head:
+            return head
+
+        # 2. 'current' pointerini ro'yxat boshiga qo'yamiz
+        current = head
+
+        # 3. Ro'yxat oxirigacha (current va uning keyingisi bor ekan) sikl aylanamiz
+        while current and current.next:
+            # 4. Agar joriy qiymat keyingisi bilan bir xil bo'lsa (Dublikat topildi)
+            if current.val == current.next.val:
+                # Dublikatni zanjirdan uzib, keyingisidan keyingisiga ulaymiz
+                current.next = current.next.next
+            else:
+                # 5. Agar qiymatlar har xil bo'lsa, shunchaki oldinga yuramiz
+                current = current.next
+
+        # 6. Tozalangan ro'yxatning boshini qaytaramiz
+        return head
