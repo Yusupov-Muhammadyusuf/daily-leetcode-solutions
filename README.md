@@ -19,7 +19,7 @@ The solutions are primarily implemented using the following programming language
 * **Python** (For concise and efficient implementation)
 * **JavaScript** (For flexible and dynamic scripting)
 * **TypeScript** (For type-safe and scalable solutions)
-* 
+
 ## Roadmap
 
 - [x] Add at least one new solution daily.
