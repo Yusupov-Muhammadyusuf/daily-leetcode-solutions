@@ -4,7 +4,7 @@ Level: Easy 🟢
 
 Description:
 Given a list of strings events representing individual ball outcomes 
-in a cricket innings. Valid scoring events include runs ("0", "1", "2", 
+in a cricket innings. Valid scoring events include runs ("0", "1", "2",
 "3", "4", "6"), wickets ("W"), wide balls ("WD"), and no-balls ("NB"). 
 
 Calculate the total score and the total number of wickets lost. 
