@@ -13,13 +13,6 @@ The problems are categorized by their difficulty levels:
 * **Medium/** — Intermediate logic and algorithmic challenges.
 * **Hard/** — Complex data structures and advanced algorithms.
 
-## Tech Stack
-
-The solutions are primarily implemented using the following programming languages:
-* **Python** (For concise and efficient implementation)
-* **JavaScript** (For flexible and dynamic scripting)
-* **TypeScript** (For type-safe and scalable solutions)
-
 ## Roadmap
 
 - [x] Add at least one new solution daily.
