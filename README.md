@@ -11,7 +11,6 @@ The problems are categorized by their difficulty levels:
 
 * **Easy/** — Simple problems designed for beginners.
 * **Medium/** — Intermediate logic and algorithmic challenges.
-* **Hard/** — Complex data structures and advanced algorithms.
 
 ## Roadmap
 
